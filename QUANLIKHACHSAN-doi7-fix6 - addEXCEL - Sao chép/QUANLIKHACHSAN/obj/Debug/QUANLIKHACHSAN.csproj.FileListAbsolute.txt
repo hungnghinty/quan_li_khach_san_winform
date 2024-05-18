@@ -1,0 +1,153 @@
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe.config
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.pdb
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.AssemblyReference.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.SuggestedBindingRedirects.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmHoaDon.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmQliKhachSan.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmDichVu.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmVatTu.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.Properties.Resources.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.GenerateResource.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.CoreCompileInputs.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.exe
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.pdb
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.AssemblyReference.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.SuggestedBindingRedirects.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmHoaDon.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmQliKhachSan.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmDichVu.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmVatTu.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.Properties.Resources.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.GenerateResource.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.CoreCompileInputs.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.exe
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.pdb
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN - Sao chép\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe.config
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN - Sao chép\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN - Sao chép\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.pdb
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN(3)\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe.config
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN(3)\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN(3)\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.pdb
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN(3)\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.AssemblyReference.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN(3)\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.SuggestedBindingRedirects.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN(3)\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmtblHoaDon.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN(3)\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmQliKhachSan.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN(3)\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmDichVu.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN(3)\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmVatTu.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN(3)\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.Properties.Resources.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN(3)\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.GenerateResource.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN(3)\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.CoreCompileInputs.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN(3)\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.exe
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN(3)\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.pdb
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix2\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe.config
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix2\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix2\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.pdb
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix2\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.AssemblyReference.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix2\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.SuggestedBindingRedirects.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix2\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmtblHoaDon.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix2\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmQliKhachSan.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix2\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmDichVu.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix2\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmVatTu.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix2\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.Properties.Resources.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix2\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.GenerateResource.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix2\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.CoreCompileInputs.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix2\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.exe
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix2\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.pdb
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe.config
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.pdb
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.AssemblyReference.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.SuggestedBindingRedirects.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmtblHoaDon.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmQliKhachSan.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmDichVu.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmVatTu.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.Properties.Resources.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.GenerateResource.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.CoreCompileInputs.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.exe
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.pdb
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe.config
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.pdb
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\bin\Debug\EPPlus.dll
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\bin\Debug\System.ComponentModel.Annotations.dll
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\bin\Debug\EPPlus.xml
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.AssemblyReference.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.SuggestedBindingRedirects.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmtblHoaDon.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmQliKhachSan.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmDichVu.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmVatTu.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.Properties.Resources.resources
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.GenerateResource.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.CoreCompileInputs.cache
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.CopyComplete
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.exe
+D:\real D\hưng's folder\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.pdb
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe.config
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.pdb
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\bin\Debug\EPPlus.dll
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\bin\Debug\System.ComponentModel.Annotations.dll
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\bin\Debug\EPPlus.xml
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.AssemblyReference.cache
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.SuggestedBindingRedirects.cache
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmtblHoaDon.resources
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmQliKhachSan.resources
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmDichVu.resources
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmVatTu.resources
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.Properties.Resources.resources
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.GenerateResource.cache
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.CoreCompileInputs.cache
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.CopyComplete
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.exe
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.pdb
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmDangNhap.resources
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe.config
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.pdb
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\bin\Debug\EPPlus.dll
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\bin\Debug\System.ComponentModel.Annotations.dll
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\bin\Debug\EPPlus.xml
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.AssemblyReference.cache
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.SuggestedBindingRedirects.cache
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmDangNhap.resources
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmtblHoaDon.resources
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmQliKhachSan.resources
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmDichVu.resources
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmVatTu.resources
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.Properties.Resources.resources
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.GenerateResource.cache
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.CoreCompileInputs.cache
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.CopyComplete
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.exe
+D:\real D\HUNG'S FOLDER\kì 1 năm 2\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.pdb
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe.config
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.exe
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\bin\Debug\QUANLIKHACHSAN.pdb
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\bin\Debug\EPPlus.dll
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\bin\Debug\System.ComponentModel.Annotations.dll
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\bin\Debug\EPPlus.xml
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.AssemblyReference.cache
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.SuggestedBindingRedirects.cache
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmDangNhap.resources
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmtblHoaDon.resources
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmQliKhachSan.resources
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmDichVu.resources
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.frmVatTu.resources
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.Properties.Resources.resources
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.GenerateResource.cache
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.CoreCompileInputs.cache
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.csproj.CopyComplete
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.exe
+D:\REAL\HUNG\nam2__ki1\C SHARP\project- the big one\QUANLIKHACHSAN-doi7-fix6 - addEXCEL - Sao chép\QUANLIKHACHSAN\obj\Debug\QUANLIKHACHSAN.pdb

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DB_Doi7(3)" Class="DBQuanLiKhachSanDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=DB_Doi7(3);Integrated Security=True" SettingsObjectName="QUANLIKHACHSAN.Properties.Settings" SettingsPropertyName="DB_Doi7_3_ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tbl_CTHoaDon" Member="tbl_CTHoaDons">
+    <Type Name="tbl_CTHoaDon">
+      <Column Name="MaHD" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaDV" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SoLuong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GiaTIen" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Association Name="tbl_DichVu_tbl_CTHoaDon" Member="tbl_DichVu" ThisKey="MaDV" OtherKey="MaDV" Type="tbl_DichVu" IsForeignKey="true" />
+      <Association Name="tbl_HoaDon_tbl_CTHoaDon" Member="tbl_HoaDon" ThisKey="MaHD" OtherKey="MaHD" Type="tbl_HoaDon" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbl_VatTu" Member="tbl_VatTus">
+    <Type Name="tbl_VatTu">
+      <Column Name="MaPhong" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MaVatTu" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenVatTu" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SoLuong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GhiChu" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="tbl_Phong_tbl_VatTu" Member="tbl_Phong" ThisKey="MaPhong" OtherKey="MaPhong" Type="tbl_Phong" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbl_DichVu" Member="tbl_DichVus">
+    <Type Name="tbl_DichVu">
+      <Column Name="MaDV" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenDV" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="SoTien" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="GhiChu" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="tbl_DichVu_tbl_CTHoaDon" Member="tbl_CTHoaDons" ThisKey="MaDV" OtherKey="MaDV" Type="tbl_CTHoaDon" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbl_HoaDon" Member="tbl_HoaDons">
+    <Type Name="tbl_HoaDon">
+      <Column Name="MaHD" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaNV" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="MaSuKien" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaHopDong" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NgayLap" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="TienGIam" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="TienPhat" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="SoTienTra" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="TongTien" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="GhiChu" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="tbl_HoaDon_tbl_CTHoaDon" Member="tbl_CTHoaDons" ThisKey="MaHD" OtherKey="MaHD" Type="tbl_CTHoaDon" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbl_HopDong" Member="tbl_HopDongs">
+    <Type Name="tbl_HopDong">
+      <Column Name="MaHopDong" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaPhong" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="TenKhachHang" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SoDienThoai" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="NgayVao" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="NgayRa" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="GIaThue" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="CCCD" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DaKetThuc" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="tbl_Phong_tbl_HopDong" Member="tbl_Phong" ThisKey="MaPhong" OtherKey="MaPhong" Type="tbl_Phong" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbl_Phong" Member="tbl_Phongs">
+    <Type Name="tbl_Phong">
+      <Column Name="MaPhong" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenPhong" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LoaiPhong" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="GiaPhong" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="TrangThai" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tbl_Phong_tbl_VatTu" Member="tbl_VatTus" ThisKey="MaPhong" OtherKey="MaPhong" Type="tbl_VatTu" />
+      <Association Name="tbl_Phong_tbl_HopDong" Member="tbl_HopDongs" ThisKey="MaPhong" OtherKey="MaPhong" Type="tbl_HopDong" />
+    </Type>
+  </Table>
+</Database>
